@@ -1,0 +1,43 @@
+* {
+box-sizing: border-box;
+margin: 0;
+}
+
+#hot {
+    background-image: url("hot.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+#juice {
+    background-image: url("juicy.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+#cosy {
+    background-image: url("cosy.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    font-family: Spirax;
+    text-align: center;
+    font-size: 100px;
+    color: maroon;
+}
+
+p {
+    font-family: Poiret One;
+    color: white;
+    background-color: rgb(128,0,0,0.7);
+    display: inline-block;
+}
+
+table{
+    font-family: Poiret One;
+    color: white;
+    background-color: rgba(0,0,0,0.7);
+    display: inline-block;
+}
